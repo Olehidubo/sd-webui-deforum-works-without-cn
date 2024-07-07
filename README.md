@@ -1,5 +1,7 @@
 
-# Deforum Stable Diffusion — official extension for AUTOMATIC1111's webui
+# Fork of Deforum Stable Diffusion — official extension for AUTOMATIC1111's webui. 
+
+Changes: added gif support, a few fixes that allow to work without control net, there is the branch (vlad-automatic) that works on the [vlad automatic](https://github.com/vladmandic/automatic) webui.
 
 <p align="left">
     <a href="https://github.com/deforum-art/sd-webui-deforum/commits"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/deforum-art/deforum-for-automatic1111-webui"></a>
@@ -13,7 +15,7 @@
 
 ## Getting Started
 
-1. Install [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/).
+1. Install [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) or [Vlad automatic](https://github.com/vladmandic/automatic) (use vlad-automatic branch).
 
 2. Now two ways: either clone the repo into the `extensions` directory via git commandline launched within in the `stable-diffusion-webui` folder
 
